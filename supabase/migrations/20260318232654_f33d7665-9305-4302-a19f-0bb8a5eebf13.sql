@@ -1,0 +1,1 @@
+ALTER TABLE public.loan_applications ENABLE ROW LEVEL SECURITY;

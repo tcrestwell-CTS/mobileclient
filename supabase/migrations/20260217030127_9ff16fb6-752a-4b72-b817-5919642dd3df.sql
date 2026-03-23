@@ -1,0 +1,1 @@
+ALTER TABLE public.trip_payments ADD COLUMN stripe_receipt_url text;

@@ -1,0 +1,1 @@
+ALTER TYPE public.commission_tier ADD VALUE 'none';

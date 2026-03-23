@@ -1,0 +1,1 @@
+ALTER TABLE public.profiles ADD COLUMN embarc_number text;
