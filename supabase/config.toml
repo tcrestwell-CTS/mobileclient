@@ -1,0 +1,63 @@
+project_id = "zbtnulzvwreqzbmxulpv"
+
+[functions]
+  [functions.auth-email-hook]
+    verify_jwt = false
+  [functions.booking-orchestrator]
+    verify_jwt = false
+  [functions.create-virtual-card]
+    verify_jwt = false
+  [functions.generate-itinerary]
+    verify_jwt = false
+  [functions.import-data]
+    verify_jwt = false
+  [functions.portal-auth]
+    verify_jwt = false
+  [functions.portal-data]
+    verify_jwt = false
+  [functions.post-trip-email]
+    verify_jwt = false
+  [functions.qbo-auth]
+    verify_jwt = false
+  [functions.qbo-sync]
+    verify_jwt = false
+  [functions.qbo-sync-trigger]
+    verify_jwt = false
+  [functions.receive-lead]
+    verify_jwt = false
+  [functions.retrieve-virtual-card]
+    verify_jwt = false
+  [functions.send-email]
+    verify_jwt = false
+  [functions.send-signup-otp]
+    verify_jwt = false
+  [functions.stripe-connect-onboarding]
+    verify_jwt = false
+  [functions.stripe-issuing-webhook]
+    verify_jwt = false
+  [functions.stripe-dispute-webhook]
+    verify_jwt = false
+  [functions.evaluate-tiers]
+    verify_jwt = false
+  [functions.widgety-cruise]
+    verify_jwt = false
+  [functions.payment-reminders]
+    verify_jwt = false
+  [functions.group-signup]
+    verify_jwt = false
+  [functions.hotelbeds]
+    verify_jwt = false
+  [functions.create-payment-intent]
+    verify_jwt = false
+  [functions.create-affirm-charge]
+    verify_jwt = false
+  [functions.submit-loan-application]
+    verify_jwt = false
+  [functions.activate-autopay]
+    verify_jwt = false
+  [functions.stripe-webhook]
+    verify_jwt = false
+  [functions.create-payment-plan]
+    verify_jwt = false
+  [functions.export-loan-pdf]
+    verify_jwt = false
