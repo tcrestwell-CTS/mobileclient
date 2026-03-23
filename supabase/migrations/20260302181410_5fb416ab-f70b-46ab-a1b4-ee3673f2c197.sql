@@ -1,0 +1,1 @@
+ALTER TABLE public.trips ADD COLUMN group_landing_content jsonb DEFAULT '{"feature_images":[],"additional_sections":[]}'::jsonb;
